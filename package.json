@@ -1,7 +1,7 @@
 {
-  "name": "dht-rpc-bootstrap",
-  "version": "2.0.0",
-  "description": "Easily spin up a dht-rpc bootstrap node from the command line.",
+  "name": "dweb-dht-rpc-bootstrap",
+  "version": "1.0.0",
+  "description": "CLI for launching dWeb DHT bootstrap nodes.",
   "main": "index.js",
   "dependencies": {
     "dht-rpc": "^4.0.0",
