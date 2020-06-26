@@ -1,9 +1,9 @@
-# dht-rpc-bootstrap
+# dweb-dht-rpc-bootstrap
 
-Easily spin up a [dht-rpc](https://github.com/mafintosh/dht-rpc) bootstrap node from the command line.
+Easily spin up a [dht-rpc](https://github.com/distributedweb/dht-rpc) bootstrap node from the command line.
 
 ```
-npm install dht-rpc-bootstrap
+npm install dweb-dht-rpc-bootstrap
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ A bootstrap node is just a normal dht node, except it doesn't answer any custom 
 just forward you to other nodes in the network.
 
 ``` sh
-dht-rpc-bootstrap --port=10000
+dweb-dht-rpc-bootstrap --port=10000
 ```
 
 After spinning up a node add it to your dht-rpc bootstrap list

@@ -9,16 +9,16 @@
   },
   "devDependencies": {},
   "bin": {
-    "dht-rpc-bootstrap": "./index.js"
+    "dweb-dht-rpc-bootstrap": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/dht-rpc-bootstrap.git"
+    "url": "https://github.com/distributedweb/dweb-dht-rpc-bootstrap.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/dht-rpc-bootstrap/issues"
+    "url": "https://github.com/distributedweb/dweb-dht-rpc-bootstrap/issues"
   },
-  "homepage": "https://github.com/mafintosh/dht-rpc-bootstrap"
+  "homepage": "https://github.com/distributedweb/dweb-dht-rpc-bootstrap"
 }
